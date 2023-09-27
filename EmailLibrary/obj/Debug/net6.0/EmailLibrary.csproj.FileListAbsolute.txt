@@ -1,0 +1,12 @@
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/bin/Debug/net6.0/EmailLibrary.deps.json
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/bin/Debug/net6.0/EmailLibrary.dll
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/bin/Debug/net6.0/EmailLibrary.pdb
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.csproj.AssemblyReference.cache
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.AssemblyInfoInputs.cache
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.AssemblyInfo.cs
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.csproj.CoreCompileInputs.cache
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.dll
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/refint/EmailLibrary.dll
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/EmailLibrary.pdb
+/Users/mne/RiderProjects/EmailClassLibrary/EmailLibrary/obj/Debug/net6.0/ref/EmailLibrary.dll
